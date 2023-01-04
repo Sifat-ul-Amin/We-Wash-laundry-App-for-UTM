@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "18764446127",
+    "project_id": "wewash-laundry-application",
+    "storage_bucket": "wewash-laundry-application.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18764446127:android:7e69b3478e426899c2175a",
+        "android_client_info": {
+          "package_name": "com.example.wewash_laundry_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18764446127-i4heakgtjvrud7vak5va7m1b1c1o3biv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wewash_laundry_app",
+            "certificate_hash": "47c9029791f09909d7d9e650f39fefe50f3928dd"
+          }
+        },
+        {
+          "client_id": "18764446127-mbiamnmbucuom7tkrunt9rshndrfgbio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0UwQRuXW9sm79bhLwiXNmy31oDBJuvB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18764446127-mbiamnmbucuom7tkrunt9rshndrfgbio.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
