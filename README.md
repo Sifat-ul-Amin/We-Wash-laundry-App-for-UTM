@@ -45,5 +45,3 @@ g)
 
 
 
-[PSM2report_Resubmission(Correction) (1).pdf](https://github.com/Sifat-ul-Amin/We-Wash-laundry-App-for-UTM/files/11247332/PSM2report_Resubmission.Correction.1.pdf)
-6c46d.png)
